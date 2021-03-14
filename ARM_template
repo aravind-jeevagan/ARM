@@ -1,0 +1,5 @@
+We can create resources using ARM template
+it is reusable 
+we can pass paramter or define variabe inside the json file
+we can also use this template while running pipeline by using template deployment step
+we can also use pipeline variables for this template to seperate each resources like reosurce-dev , resorce-stage
